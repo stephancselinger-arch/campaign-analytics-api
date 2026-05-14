@@ -146,3 +146,5 @@ pytest tests/ -v
 - **FastAPI** — async REST framework
 - **Pydantic v2** — event validation
 - Python 3.12+
+
+<!-- Last updated: 2026-05-14 -->
